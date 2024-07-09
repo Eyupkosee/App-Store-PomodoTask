@@ -40,29 +40,29 @@ If you're interested in exploring or contributing to the source code of PomodoTa
 
 2. **Navigate to the Project Directory**
 
- ```sh
- cd PomodoTask
+    ```sh
+    cd PomodoTask
 
 
 3. **Install Dependencies**
 
-Using npm:
-```sh
-npm install
+   Using npm:
+   ```sh
+   npm install
 
-Or using Yarn:
-```sh
-yarn install
+   Or using Yarn:
+   ```sh
+   yarn install
 
 4. **Run the Application**
 
-Using npm:
-```sh
-npm start
+   Using npm:
+   ```sh
+   npm start
 
-Or using Yarn:
-```sh
-yarn start
+   Or using Yarn:
+   ```sh
+   yarn start
 
 
 ## Contributing
