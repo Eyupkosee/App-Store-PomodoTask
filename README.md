@@ -12,7 +12,6 @@ PomodoTask is a powerful task management app designed to help you stay focused a
 - **Pomodoro Timer**: Work in 25-minute intervals followed by a 5-minute break.
 - **Customizable Settings**: Adjust the timer and break durations to fit your workflow.
 - **Notifications**: Get notified when it's time to take a break or get back to work.
-- **Statistics**: Track your productivity and see how much time you've dedicated to each task.
 
 ## Download PomodoTask
 
@@ -49,10 +48,12 @@ If you're interested in exploring or contributing to the source code of PomodoTa
    Using npm:
    ```sh
    npm install
+   ```
 
    Or using Yarn:
    ```sh
    yarn install
+   ```
 
 4. **Run the Application**
 
@@ -60,22 +61,17 @@ If you're interested in exploring or contributing to the source code of PomodoTa
 
    ```sh
    npm start
+   ```
 
    Or using Yarn:
 
    ```sh
    yarn start
-
+   ```
 
 ## Contributing
 We welcome contributions! If you have suggestions for improving the app or have found a bug, please open an issue or submit a pull request.
 
-## Steps to Contribute
-1- Fork the repository. 
-2- Create a new branch (git checkout -b feature/YourFeature).
-3- Make your changes and commit them (git commit -m 'Add some feature').
-4- Push to the branch (git push origin feature/YourFeature).
-5- Open a Pull Request.
 
 
 ## Contact
