@@ -57,10 +57,12 @@ If you're interested in exploring or contributing to the source code of PomodoTa
 4. **Run the Application**
 
    Using npm:
+
    ```sh
    npm start
 
    Or using Yarn:
+
    ```sh
    yarn start
 
@@ -69,7 +71,7 @@ If you're interested in exploring or contributing to the source code of PomodoTa
 We welcome contributions! If you have suggestions for improving the app or have found a bug, please open an issue or submit a pull request.
 
 ## Steps to Contribute
-1- Fork the repository.
+1- Fork the repository. 
 2- Create a new branch (git checkout -b feature/YourFeature).
 3- Make your changes and commit them (git commit -m 'Add some feature').
 4- Push to the branch (git push origin feature/YourFeature).
@@ -77,7 +79,7 @@ We welcome contributions! If you have suggestions for improving the app or have 
 
 
 ## Contact
-For any inquiries or support, please contact us at ##eyupkose.work@gmail.com.
+For any inquiries or support, please contact us at eyupkose.work@gmail.com.
 
 | ![Resim 1](https://github.com/Eyupkosee/PomodoTask/assets/89103093/4c21a800-8a67-4d05-aee7-fab0b5e7e62e) | ![Resim 2](https://github.com/Eyupkosee/PomodoTask/assets/89103093/d9a17bbf-f240-4b6c-a729-5781302ed91e) |
 |---|---|
