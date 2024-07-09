@@ -39,6 +39,7 @@ If you're interested in exploring or contributing to the source code of PomodoTa
 
 
 2. **Navigate to the Project Directory**
+
  ```sh
  cd PomodoTask
 
