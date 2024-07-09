@@ -1,20 +1,42 @@
 # PomodoTask
 
+Welcome to **PomodoTask** - your ultimate productivity companion! Available on the [App Store](https://apps.apple.com/us/app/pomodotask/id6499495267).
 
-Welcome to PomodoTask, where productivity meets simplicity. Combining the power of the Pomodoro Technique with a versatile to-do list, PomodoTask is designed to help you focus on what matters most.
+## About PomodoTask
 
-Features:
+PomodoTask is a powerful task management app designed to help you stay focused and productive. Using the Pomodoro Technique, PomodoTask encourages you to work in focused intervals with regular breaks, ensuring maximum productivity and maintaining your mental well-being.
 
-Integrated Pomodoro Timer: Stay focused and break your work into manageable intervals with our built-in timer.
-Customizable To-Do Lists: Organize your tasks with custom lists and prioritize your day effectively.
-Multi-Language Support: Whether you speak English, Spanish, French, or any other language, PomodoTask speaks your language.
-No Ads, Just Productivity: Enjoy a distraction-free environment that keeps you focused on your goals.
-Why PomodoTask?
+## Features
 
-Simple and Clean Interface: Easy to use with no learning curve.
-Boosts Productivity: Helps you complete tasks faster by encouraging short, intense work periods followed by breaks.
-Adapts to Your Needs: Flexible settings to tailor the app to your personal productivity style.
-Download PomodoTask today and transform the way you manage your time! 
+- **Task Management**: Easily add, edit, and delete tasks.
+- **Pomodoro Timer**: Work in 25-minute intervals followed by a 5-minute break.
+- **Customizable Settings**: Adjust the timer and break durations to fit your workflow.
+- **Notifications**: Get notified when it's time to take a break or get back to work.
+- **Statistics**: Track your productivity and see how much time you've dedicated to each task.
+
+## Download PomodoTask
+
+Download the app from the [App Store](https://apps.apple.com/us/app/pomodotask/id6499495267) and take the first step towards a more productive you!
+
+## Getting Started with the Source Code
+
+If you're interested in exploring or contributing to the source code of PomodoTask, follow these steps to get started:
+
+### Prerequisites
+
+- Ensure you have [Git](https://git-scm.com/) installed on your computer.
+- Make sure you have [Node.js](https://nodejs.org/) installed, as it's required for building the project.
+- You'll also need a package manager like [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/).
+
+### Installation
+
+1. **Clone the Repository**
+
+   Open your terminal and run the following command:
+
+   ```sh
+   git clone https://github.com/Eyupkosee/PomodoTask.git
+
 
 
 
