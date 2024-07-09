@@ -1,4 +1,4 @@
-# PomodoTask
+# App Store - PomodoTask 
 
 Welcome to **PomodoTask** - your ultimate productivity companion! Available on the [App Store](https://apps.apple.com/us/app/pomodotask/id6499495267).
 
